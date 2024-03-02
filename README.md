@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Bhanu Teja
+- 👀 I’m interested in Devops,coding,AWS,..
+- 🌱 I’m currently learning Devops.
+- 📫 Reach me at bhanunani567@gmail.com
